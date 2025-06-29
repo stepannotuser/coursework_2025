@@ -10,7 +10,9 @@
 
 Сборка проекта через Makefile:
 1) make full
- или:
+
+или:
+
 1) python3 src/booking_server.py & запуск сервера (python3 src/turnstile_server.py & для запуска альтернативного сервера)
 2) python3 src/proxy.py & запуск прокси
 3) python3 src/extract_alphabet.py извлечение алфавита
